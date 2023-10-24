@@ -19,7 +19,7 @@ These instructions provide guidance on setting up this project on a local machin
 **Project Setup:**
 
 1. **Cloning the Project:** Use the following command to clone the repository to the local machine:
-   `git clone git@github.com:javeedsanganakal/lab3.git`
+   `https://github.com/ayushshresth021/Etsy-Clone.git`
 
 2. **Installing Client Dependencies:** Navigate to the client directory and install required dependencies:
    ```bash
